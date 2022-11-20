@@ -3,11 +3,11 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=70049f&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Caio+Braga;I'm+18+years+old;I'm+from+Brazil;I'm+persuing+a+Software+Engineering+degree;Welcome+:%29)](https://git.io/typing-svg)
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=caiothedev&show_icons=true&count_private=true&hide_border=true&title_color=70049f&icon_color=70049f&text_color=c9d1d9&bg_color=0d1117" alt="Caio Braga github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caiothedev&layout=compact&hide_border=true&title_color=70049f&text_color=a900ff&bg_color=0d1117" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=caioalvesbraga&show_icons=true&count_private=true&hide_border=true&title_color=70049f&icon_color=70049f&text_color=c9d1d9&bg_color=0d1117" alt="Caio Braga github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caioalvesbraga&layout=compact&hide_border=true&title_color=70049f&text_color=a900ff&bg_color=0d1117" />
 </div>
 
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=caiothedev&bg_color=0d1117&color=70049f&line=a900ff&point=ffbde0&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=caioalvesbraga&bg_color=0d1117&color=70049f&line=a900ff&point=ffbde0&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <div align="center"> 
 <a href="https://instagram.com/caiobraga.jpg" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
