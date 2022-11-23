@@ -1,5 +1,11 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=70049f&height=120&section=header"/>
 
+## Olá, me chamo Caio Braga 👋
+
+- 🔭 Atualmente estou cursando o 4°sem. de Engenharia de Software na Universidade de Brasília
+- 🌱 Minhas contribuições podem ser úteis em desenvolvimento web, mobile e data science
+- 👯 Busco colaborar em projetos com Javascript com React no front-end, e Python com Flask no back-end e banco de dados MySQL
+
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=caioalvesbraga&show_icons=true&count_private=true&hide_border=true&title_color=70049f&icon_color=70049f&text_color=c9d1d9&bg_color=0d1117" alt="Caio Braga github stats" /> 
