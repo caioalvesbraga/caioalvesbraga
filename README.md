@@ -2,7 +2,7 @@
 
 ## Olá, me chamo Caio Braga 👋
 
-- 🔭 Atualmente estou cursando o 4°sem.estre de Engenharia de Software na Universidade de Brasília
+- 🔭 Atualmente estou cursando o 4°semestre de Engenharia de Software na Universidade de Brasília
 - 🌱 Minhas contribuições podem ser úteis em desenvolvimento web, mobile e data science
 - 💙 Busco colaborar em projetos com Javascript com React no front-end, e Python com Flask no back-end e banco de dados MySQL
 
