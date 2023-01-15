@@ -7,11 +7,6 @@
 - 💙 Busco colaborar em projetos com Javascript com React no front-end, e Python com Flask no back-end e banco de dados MySQL
 
 
-<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=caioalvesbraga&show_icons=true&count_private=true&hide_border=true&title_color=70049f&icon_color=70049f&text_color=c9d1d9&bg_color=0d1117" alt="Caio Braga github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caioalvesbraga&layout=compact&hide_border=true&title_color=70049f&text_color=a900ff&bg_color=0d1117" />
-</div>
-
 <div align="center"> 
 <a href="https://instagram.com/caiobraga.jpg" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
 <a href = "mailto:caio.braga.felipe@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
