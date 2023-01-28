@@ -7,9 +7,9 @@
 - 💙 Busco colaborar em projetos com Javascript com React no front-end, e Python com Flask no back-end com banco de dados MySQL
 
 <div align="center">
-  <a href="https://github.com/larigs">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=larigs&count_private=true&include_all_commits=true&show_icons=true&theme=tokyonight&hide_border=false&show_owner=true"/>
-    <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=larigs&layout=compact&langs_count=7&theme=tokyonight"/>
+  <a href="https://github.com/caioalvesbaga">
+    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=caioalvesbraga&count_private=true&include_all_commits=true&show_icons=true&theme=tokyonight&hide_border=false&show_owner=true"/>
+    <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caioalvesbraga&layout=compact&langs_count=7&theme=tokyonight"/>
   </a>
 </div>
 
