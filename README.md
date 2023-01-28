@@ -5,14 +5,16 @@
 - 🔭 Atualmente estou cursando o 4°semestre de Engenharia de Software na Universidade de Brasília
 - 🌱 Minhas contribuições podem ser úteis em desenvolvimento web, mobile e data science
 - 💙 Busco colaborar em projetos com Javascript com React no front-end, e Python com Flask no back-end com banco de dados MySQL
-
+<br>
+<br>
 <div align="center">
   <a href="https://github.com/caioalvesbaga">
     <img height="150em" src="https://github-readme-stats.vercel.app/api?username=caioalvesbraga&count_private=true&include_all_commits=true&show_icons=true&theme=tokyonight&hide_border=false&show_owner=true"/>
     <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caioalvesbraga&layout=compact&langs_count=7&theme=tokyonight"/>
   </a>
 </div>
-
+<br>
+<br>
 <div align="center"> 
 <a href="https://instagram.com/caiobraga.jpg" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
 <a href = "mailto:caio.braga.felipe@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
