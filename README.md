@@ -12,7 +12,7 @@
     <img height="150em" src="https://github-readme-stats.vercel.app/api?username=caioalvesbraga&count_private=true&include_all_commits=true&show_icons=true&theme=radical&hide_border=false&show_owner=true"/>
     <br>
     <br>
-    <img height="220em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caioalvesbraga&hide=html&theme=radical"/>
+    <img height="220em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caioalvesbraga&hide=html, cython&theme=radical"/>
   </a>
 </div>
 <br>
