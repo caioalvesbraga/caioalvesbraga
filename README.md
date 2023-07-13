@@ -4,7 +4,7 @@
 
 - 🔭 Atualmente estou cursando o 4°semestre de Engenharia de Software na Universidade de Brasília
 - 🌱 Minhas contribuições podem ser úteis em desenvolvimento web, mobile e data science
-- 💙 Busco colaborar em projetos com Javascript com React no front-end, e Python com Flask no back-end com banco de dados MySQL
+- 💙 Busco colaborar em projetos com Javascript com React no front-end, e Python com Flask, FastAPI ou Django no back-end.
 <br>
 <br>
 <div align="center">
@@ -28,6 +28,7 @@
 ## Minhas principais habilidades
 <div style="display: inline_block"><br>
   <img align="center" alt="Caio-C" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
+  <img align="center" alt="Caio-FastAPI" height="100" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original-wordmark.svg" />
   <img align="center" alt="Caio-Flask" height="100" width="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original-wordmark.svg" />
   <img align="center" alt="Caio-Java" height="80" width="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
   <img align="center" alt="Caio-JS" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
@@ -40,6 +41,5 @@
   ## Estudando no momento
 <div style="display: inline_block"><br>
   <img  align="center" alt="Caio-Django" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" />
-  <img align="center" alt="Caio-FastAPI" height="100" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original-wordmark.svg" />
   <img  align="center" alt="Caio-Pandas" height="100" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg" />
 </div>
